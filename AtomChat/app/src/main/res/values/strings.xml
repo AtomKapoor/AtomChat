@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AtomChat</string>
+    <string name="need_a_new_account">Need a new account ?</string>
+    <string name="username">Username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="default_status">Hi there, I\'m using AtomChat</string>
+    <string name="createaccount">Create Account</string>
+    <string name="createanewaccount">Create a New Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
