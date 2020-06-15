@@ -8,7 +8,7 @@
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589448385.png" width="200"> &nbsp; 
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277404.png" width="200"> &nbsp;
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277337.png" width="200"> &nbsp;
-<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277352.png" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277600.png" width="200"> &nbsp; 
 #
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589364935.png" width="200"> &nbsp; 
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369384.png" width="200"> &nbsp; 
