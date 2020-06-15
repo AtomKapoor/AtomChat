@@ -10,10 +10,10 @@
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277337.png" width="200"> &nbsp;
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277352.png" width="200"> &nbsp; 
 #
-<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589304864.png" width="200"> &nbsp;
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589364935.png" width="200"> &nbsp; 
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369384.png" width="200"> &nbsp; 
-<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369601.png" width="200">
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369601.png" width="200"> &nbsp;
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589304864.png" width="200">
 #
 #
 # FEATURES
