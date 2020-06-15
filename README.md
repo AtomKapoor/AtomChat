@@ -52,5 +52,5 @@
 * Image Cropping 
 * Image Compressing
 
-### <h3 align="right">Atom Kapoor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+### <h3 align="right">Atom Kapoor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 ### <h5 align="right">Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
