@@ -53,4 +53,4 @@
 * Image Compressing
 
 ### <h3 align="right">Atom Kapoor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-### <h5 align="right">Student and Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+### <h5 align="right">Student and Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
