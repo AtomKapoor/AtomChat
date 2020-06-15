@@ -1,8 +1,10 @@
 # <h1 align = "center">AtomChat</h1>
 ### <h3 align= "center">A Firebase based Android messaging app</h1>
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588348259.png" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588348514.png" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588348528.png" width="200"> &nbsp; 
 #
-<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588348514.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588348528.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588448385.png" width="200"> &nbsp; 
+<img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588448385.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588448385.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1588448385.png" width="200"> &nbsp; 
 #
 <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589277404" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589364935.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369384.png" width="200"> &nbsp; <img src="https://github.com/AtomKapoor/AtomChat/blob/master/Screenshots/Screenshot_1589369601.png" width="200">
 #
